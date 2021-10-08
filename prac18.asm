@@ -25,7 +25,7 @@ menuSelOpcionPrac18 db "|----- Seleccione la operacion que desee realizar:   ---
 opcion db 2 dup(' '),'$' ; Cadena donde se guardará la opción capturada.
 readkeyOp  db "     Presione cualquier tecla para regresar al menu...$"
 
-; ==============================================================================================================
+; ===============================================================================================================
 
 ; |-----------------|====== DECLARACIÓN DE VARIABLES Y CADENAS DE CARACTERES PARA LAS OPERACIONES ======|-----------------|
 ; ======|----- Operación #1 -----|=====
